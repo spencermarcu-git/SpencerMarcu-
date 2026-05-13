@@ -1,3 +1,3 @@
 # -
-@Spencer-Marcu American singer-songwriter 
+@SpencerMarcu American singer-songwriter 
 music-spencer-marcu
